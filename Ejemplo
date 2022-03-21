@@ -24,3 +24,5 @@ Git paso a paso
     - git log
     - git log -p == Para ver al detalle las modificaciones
     - git log -numero == Para ver los numero ultimos
+5. Para hacer commit y add al mismo tiempo:
+    - git commit -a -m "Comentario"
